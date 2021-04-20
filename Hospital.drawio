@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T20:12:37.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="NYFX0ptNVATirfxIeKQ4" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T20:13:49.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="RtmpOWHGlOEtWGLJN85l" version="14.6.3" type="github">
   <diagram id="39pjnHgzE9A1EJmM_nUC" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zt45t9UzBJmz-FaGUdx5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zt45t9UzBJmz-FaGUdx5-7" target="zt45t9UzBJmz-FaGUdx5-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnR7mRFuEzyLd3JJTChf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zt45t9UzBJmz-FaGUdx5-7" target="hnR7mRFuEzyLd3JJTChf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zt45t9UzBJmz-FaGUdx5-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -61,7 +64,7 @@
         <mxCell id="zt45t9UzBJmz-FaGUdx5-27" value="View Doctors" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zt45t9UzBJmz-FaGUdx5-31" value="recording" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zt45t9UzBJmz-FaGUdx5-31" value="View yours records" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zt45t9UzBJmz-FaGUdx5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zt45t9UzBJmz-FaGUdx5-37" target="zt45t9UzBJmz-FaGUdx5-18" edge="1">
@@ -81,6 +84,9 @@
         </mxCell>
         <mxCell id="zt45t9UzBJmz-FaGUdx5-45" value="Change password" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hnR7mRFuEzyLd3JJTChf-1" value="recording" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="10" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
