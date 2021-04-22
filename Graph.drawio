@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T06:38:04.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" version="14.6.3" etag="nBRyk9tBQjuaLc6PCEk_" type="github"><diagram id="v45ebsCk5Sdf3YWKM6aX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-22T07:08:18.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="8z7T1OWiR1Zkyrkiprl7" version="14.6.3" type="github">
+  <diagram id="v45ebsCk5Sdf3YWKM6aX" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iczITARaEvLsQt2ESTv1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iczITARaEvLsQt2ESTv1-2" target="iczITARaEvLsQt2ESTv1-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-2" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iczITARaEvLsQt2ESTv1-6" target="iczITARaEvLsQt2ESTv1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-6" value="Guest" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iczITARaEvLsQt2ESTv1-10" target="iczITARaEvLsQt2ESTv1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-10" value="&lt;span style=&quot;font-style: italic&quot;&gt;Employee&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-11" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="85" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-15" value="Create task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="581" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-16" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iczITARaEvLsQt2ESTv1-2" target="iczITARaEvLsQt2ESTv1-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-150" y="470" as="sourcePoint" />
+            <mxPoint x="10" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-17" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iczITARaEvLsQt2ESTv1-10" target="iczITARaEvLsQt2ESTv1-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="20" y="210" as="sourcePoint" />
+            <mxPoint x="180" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iczITARaEvLsQt2ESTv1-18" target="iczITARaEvLsQt2ESTv1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iczITARaEvLsQt2ESTv1-18" target="iczITARaEvLsQt2ESTv1-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-18" value="View timetable" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-19" value="View yours tasks" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iczITARaEvLsQt2ESTv1-23" target="iczITARaEvLsQt2ESTv1-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iczITARaEvLsQt2ESTv1-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iczITARaEvLsQt2ESTv1-23" target="iczITARaEvLsQt2ESTv1-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-23" value="View manager panel" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-24" value="Extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="450" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-30" value="Complete task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-31" value="View progress" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="581" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iczITARaEvLsQt2ESTv1-36" value="Set task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="581" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
